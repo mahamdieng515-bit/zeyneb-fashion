@@ -1,26 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 800" role="img" aria-labelledby="title desc">
-<title id="title">Gel de douche Zeyneb Fashion</title><desc id="desc">Flacon sombre aux reflets ambrés avec pompe dorée, présenté sur un fond rose poudré élégant.</desc>
+<title id="title">Gel de douche noir éclaircissant Zeyneb Fashion</title>
+<desc id="desc">Flacon noir avec pompe dorée et étiquette noire, or et argent, sans photographie.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff8f6"/><stop offset="1" stop-color="#f0d8df"/></linearGradient>
- <linearGradient id="glass" x1="0" y1="0" x2="1" y2=".3"><stop stop-color="#120e11"/><stop offset=".25" stop-color="#3b1b17"/><stop offset=".42" stop-color="#a65a22"/><stop offset=".58" stop-color="#271713"/><stop offset=".8" stop-color="#08080b"/><stop offset="1" stop-color="#3a2020"/></linearGradient>
- <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0a6"/><stop offset=".3" stop-color="#bd8428"/><stop offset=".55" stop-color="#f9d66b"/><stop offset=".8" stop-color="#94601b"/><stop offset="1" stop-color="#f4d27c"/></linearGradient>
- <radialGradient id="shine" cx=".35" cy=".25" r=".7"><stop stop-color="#ffcf6e" stop-opacity=".85"/><stop offset=".55" stop-color="#b75a20" stop-opacity=".22"/><stop offset="1" stop-color="#08080b" stop-opacity="0"/></radialGradient>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f8f7f4"/><stop offset=".55" stop-color="#e8e5df"/><stop offset="1" stop-color="#c9c5bd"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2=".2"><stop stop-color="#050505"/><stop offset=".22" stop-color="#292929"/><stop offset=".4" stop-color="#080808"/><stop offset=".62" stop-color="#242424"/><stop offset=".82" stop-color="#030303"/><stop offset="1" stop-color="#353535"/></linearGradient>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff2b0"/><stop offset=".24" stop-color="#bd8a2c"/><stop offset=".48" stop-color="#ffe18a"/><stop offset=".72" stop-color="#8b641d"/><stop offset="1" stop-color="#f4d17a"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff"/><stop offset=".35" stop-color="#aeb3b8"/><stop offset=".55" stop-color="#f8f8f8"/><stop offset="1" stop-color="#7a8087"/></linearGradient>
  <filter id="shadow" x="-.4" y="-.3" width="1.8" height="1.8"><feGaussianBlur stdDeviation="16"/></filter>
 </defs>
 <rect width="700" height="800" rx="28" fill="url(#bg)"/>
-<circle cx="540" cy="160" r="120" fill="#fff" opacity=".42"/><circle cx="110" cy="620" r="100" fill="#dca7b8" opacity=".22"/>
-<ellipse cx="350" cy="700" rx="175" ry="28" fill="#6b263c" opacity=".2" filter="url(#shadow)"/>
-<rect x="288" y="190" width="124" height="100" rx="17" fill="url(#gold)"/>
-<rect x="303" y="168" width="94" height="38" rx="10" fill="url(#gold)"/>
+<circle cx="535" cy="150" r="135" fill="#fff" opacity=".42"/><path d="M0 610 Q170 560 300 630 T700 590 V800 H0Z" fill="#b9b4ac" opacity=".25"/>
+<ellipse cx="350" cy="708" rx="175" ry="28" fill="#000" opacity=".25" filter="url(#shadow)"/>
+<!-- gold pump -->
+<rect x="288" y="190" width="124" height="100" rx="17" fill="url(#gold)" stroke="#8a641f" stroke-width="2"/>
+<rect x="303" y="168" width="94" height="38" rx="10" fill="url(#gold)" stroke="#8a641f" stroke-width="2"/>
 <path d="M350 170 L350 111 Q350 93 370 93 L455 93 Q473 93 473 109 L473 122 L389 122" fill="none" stroke="url(#gold)" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M350 170 L350 111 Q350 93 370 93 L455 93 Q473 93 473 109 L473 122 L389 122" fill="none" stroke="#fff1b8" stroke-opacity=".55" stroke-width="5" stroke-linecap="round"/>
-<rect x="252" y="265" width="196" height="385" rx="55" fill="url(#glass)" stroke="#5a3427" stroke-width="3"/>
-<rect x="258" y="272" width="184" height="371" rx="49" fill="url(#shine)"/>
-<path d="M278 300 Q263 430 280 580" stroke="#ffcc8a" stroke-opacity=".38" stroke-width="8" fill="none" stroke-linecap="round"/>
-<g fill="#f7d98a" opacity=".8"><circle cx="302" cy="326" r="4"/><circle cx="327" cy="349" r="3"/><circle cx="294" cy="390" r="3"/><circle cx="341" cy="411" r="4"/><circle cx="313" cy="454" r="3"/><circle cx="365" cy="379" r="2.5"/><circle cx="329" cy="497" r="3"/><circle cx="302" cy="530" r="2.5"/><circle cx="375" cy="466" r="3"/><circle cx="350" cy="558" r="2.5"/></g>
-<rect x="275" y="425" width="150" height="116" rx="8" fill="#fff8f0" opacity=".94"/>
-<text x="350" y="455" text-anchor="middle" font-family="Georgia,serif" font-size="18" font-weight="bold" fill="#7b1738">ZEYNEB</text><text x="350" y="477" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" letter-spacing="4" fill="#7b1738">FASHION</text>
-<path d="M305 489 H395" stroke="#c79a45" stroke-width="1.5"/>
-<text x="350" y="510" text-anchor="middle" font-family="Georgia,serif" font-size="12" fill="#32151f">GEL DE DOUCHE</text><text x="350" y="526" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" letter-spacing="1.5" fill="#8b1e42">SOIN DU CORPS</text>
-<text x="350" y="740" text-anchor="middle" font-family="Georgia,serif" font-size="26" fill="#7b1738">Zeyneb Fashion</text><text x="350" y="768" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="2" fill="#9c6c37">GEL DE DOUCHE</text>
+<path d="M350 170 L350 111 Q350 93 370 93 L455 93 Q473 93 473 109 L473 122 L389 122" fill="none" stroke="#fff7d5" stroke-opacity=".65" stroke-width="5" stroke-linecap="round"/>
+<!-- black bottle -->
+<rect x="252" y="265" width="196" height="385" rx="55" fill="url(#glass)" stroke="#555" stroke-width="3"/>
+<path d="M278 300 Q263 430 280 580" stroke="#fff" stroke-opacity=".22" stroke-width="8" fill="none" stroke-linecap="round"/>
+<g fill="#d7b45c" opacity=".8"><circle cx="302" cy="326" r="3"/><circle cx="327" cy="349" r="2.5"/><circle cx="294" cy="390" r="2.5"/><circle cx="341" cy="411" r="3"/><circle cx="313" cy="454" r="2.5"/><circle cx="365" cy="379" r="2"/><circle cx="329" cy="497" r="2.5"/><circle cx="302" cy="530" r="2"/><circle cx="375" cy="466" r="2.5"/><circle cx="350" cy="558" r="2"/></g>
+<!-- label -->
+<rect x="270" y="410" width="160" height="165" rx="9" fill="#050505" stroke="url(#gold)" stroke-width="3"/>
+<path d="M279 421 H421 M279 565 H421" stroke="url(#silver)" stroke-width="1.5"/>
+<circle cx="350" cy="446" r="25" fill="none" stroke="url(#gold)" stroke-width="1.8"/>
+<path d="M333 452 Q343 439 350 427 Q357 439 367 452 Q357 463 350 456 Q343 463 333 452Z" fill="url(#gold)"/>
+<path d="M329 428 L333 418 L340 425 L350 414 L360 425 L367 418 L371 428" fill="none" stroke="url(#gold)" stroke-width="3" stroke-linejoin="round"/>
+<text x="350" y="484" text-anchor="middle" font-family="Georgia,serif" font-size="18" font-weight="bold" fill="url(#gold)">Zeyneb</text>
+<text x="350" y="499" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" letter-spacing="3" fill="url(#silver)">FASHION</text>
+<text x="350" y="523" text-anchor="middle" font-family="Georgia,serif" font-size="13" fill="url(#silver)">GEL DE DOUCHE</text>
+<text x="350" y="542" text-anchor="middle" font-family="Georgia,serif" font-size="18" font-weight="bold" fill="url(#gold)">NOIR</text>
+<text x="350" y="558" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" letter-spacing=".8" fill="url(#silver)">ÉCLAIRCISSANT</text>
+<text x="350" y="700" text-anchor="middle" font-family="Georgia,serif" font-size="24" fill="#2a2927">Zeyneb Fashion</text>
+<text x="350" y="730" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="2" fill="#6b6254">GEL DE DOUCHE NOIR</text>
+<text x="350" y="754" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#6b6254">500 ml</text>
 </svg>
