@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 800" role="img" aria-labelledby="t d">
+<title id="t">Savon de visage Banane jaune — Zeyneb Fashion</title><desc id="d">Trois savons solides jaunes sur fond crème avec des bananes fraîches et une étiquette Zeyneb Fashion.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fffaf0"/><stop offset="1" stop-color="#f7e6ad"/></linearGradient>
+ <linearGradient id="soap" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffe978"/><stop offset=".48" stop-color="#f6c92f"/><stop offset="1" stop-color="#dca30c"/></linearGradient>
+ <linearGradient id="banana" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff08a"/><stop offset=".6" stop-color="#f6c82c"/><stop offset="1" stop-color="#d69d13"/></linearGradient>
+ <filter id="shadow" x="-.3" y="-.3" width="1.6" height="1.7"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="700" height="800" rx="28" fill="url(#bg)"/>
+<circle cx="560" cy="140" r="105" fill="#fff" opacity=".48"/><circle cx="105" cy="640" r="95" fill="#f4d96b" opacity=".22"/>
+<ellipse cx="350" cy="650" rx="240" ry="40" fill="#805c18" opacity=".16" filter="url(#shadow)"/>
+<!-- soap bars -->
+<g transform="translate(90 250) rotate(-13 145 120)">
+ <rect x="0" y="0" width="280" height="235" rx="20" fill="#d9a51b" opacity=".65"/>
+ <rect x="0" y="-8" width="280" height="235" rx="20" fill="url(#soap)" stroke="#d3a01c" stroke-width="3"/>
+ <path d="M22 23 Q140 12 255 24 M20 42 Q130 32 257 43" stroke="#fff4ae" stroke-opacity=".6" stroke-width="5" fill="none"/>
+</g>
+<g transform="translate(310 325) rotate(12 140 120)">
+ <rect x="0" y="0" width="275" height="230" rx="20" fill="#d9a51b" opacity=".65"/>
+ <rect x="0" y="-8" width="275" height="230" rx="20" fill="url(#soap)" stroke="#d3a01c" stroke-width="3"/>
+ <path d="M20 25 Q135 15 252 26 M20 44 Q135 35 252 45" stroke="#fff4ae" stroke-opacity=".55" stroke-width="5" fill="none"/>
+</g>
+<g transform="translate(170 430) rotate(3 135 90)">
+ <rect x="0" y="0" width="270" height="185" rx="18" fill="#d9a51b" opacity=".7"/>
+ <rect x="0" y="-8" width="270" height="185" rx="18" fill="url(#soap)" stroke="#d3a01c" stroke-width="3"/>
+ <rect x="30" y="47" width="210" height="70" rx="8" fill="#fffaf0" opacity=".96"/>
+ <text x="135" y="73" text-anchor="middle" font-family="Georgia,serif" font-size="17" font-weight="bold" fill="#7b1738">ZEYNEB FASHION</text>
+ <path d="M67 83 H203" stroke="#c69b38" stroke-width="1.5"/>
+ <text x="135" y="103" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="1" fill="#7b1738">SAVON BANANE</text>
+</g>
+<!-- bananas -->
+<g transform="translate(420 110) rotate(12)">
+ <path d="M15 60 Q65 155 178 142 Q215 137 232 102 Q210 176 152 190 Q59 205 0 80 Z" fill="url(#banana)" stroke="#d39a13" stroke-width="4"/>
+ <path d="M25 66 Q80 146 178 132" fill="none" stroke="#fff3a2" stroke-width="8" stroke-linecap="round" opacity=".7"/>
+ <path d="M0 80 L-5 63 L12 53 L24 63" fill="#604322"/>
+ <path d="M231 103 L245 92 L249 106 L235 118" fill="#604322"/>
+</g>
+<g transform="translate(45 520) rotate(-20)">
+ <path d="M10 40 Q40 110 120 103 Q151 99 164 73 Q148 132 103 140 Q35 145 0 55 Z" fill="url(#banana)" stroke="#d39a13" stroke-width="3"/>
+ <path d="M20 46 Q65 104 121 94" fill="none" stroke="#fff3a2" stroke-width="6" stroke-linecap="round" opacity=".7"/>
+ <path d="M0 55 L-4 41 L9 34 L20 44" fill="#604322"/>
+ <path d="M164 73 L176 64 L180 77 L167 86" fill="#604322"/>
+</g>
+<text x="350" y="720" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#7b1738">Savon de visage Banane</text>
+<text x="350" y="754" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" letter-spacing="3" fill="#a47722">ZEYNEB FASHION</text>
+</svg>
