@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 800" role="img" aria-labelledby="t d">
+<title id="t">Savon de visage Tomate — Zeyneb Fashion</title><desc id="d">Savons rouges pour le visage présentés avec des tomates fraîches sur un fond crème et rose poudré.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff8f4"/><stop offset="1" stop-color="#f4dce0"/></linearGradient>
+ <linearGradient id="soap" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff7465"/><stop offset=".5" stop-color="#d92e32"/><stop offset="1" stop-color="#a7152a"/></linearGradient>
+ <linearGradient id="tomato" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff5147"/><stop offset="1" stop-color="#b90f27"/></linearGradient>
+ <filter id="shadow" x="-.3" y="-.3" width="1.6" height="1.7"><feGaussianBlur stdDeviation="12"/></filter>
+</defs>
+<rect width="700" height="800" rx="28" fill="url(#bg)"/>
+<circle cx="560" cy="140" r="105" fill="#fff" opacity=".5"/><circle cx="110" cy="640" r="95" fill="#e9a2ac" opacity=".2"/>
+<ellipse cx="350" cy="650" rx="235" ry="38" fill="#761c2c" opacity=".15" filter="url(#shadow)"/>
+<g transform="translate(80 250) rotate(-12 145 120)">
+ <rect x="0" y="0" width="280" height="235" rx="20" fill="#8f1a29" opacity=".5"/>
+ <rect x="0" y="-8" width="280" height="235" rx="20" fill="url(#soap)" stroke="#a51e2b" stroke-width="3"/>
+ <path d="M22 23 Q140 12 255 24 M20 42 Q130 32 257 43" stroke="#ffd4c9" stroke-opacity=".55" stroke-width="5" fill="none"/>
+</g>
+<g transform="translate(320 330) rotate(11 140 120)">
+ <rect x="0" y="0" width="275" height="230" rx="20" fill="#8f1a29" opacity=".5"/>
+ <rect x="0" y="-8" width="275" height="230" rx="20" fill="url(#soap)" stroke="#a51e2b" stroke-width="3"/>
+ <path d="M20 25 Q135 15 252 26 M20 44 Q135 35 252 45" stroke="#ffd4c9" stroke-opacity=".5" stroke-width="5" fill="none"/>
+</g>
+<g transform="translate(170 430) rotate(2 135 90)">
+ <rect x="0" y="0" width="270" height="185" rx="18" fill="#8f1a29" opacity=".6"/>
+ <rect x="0" y="-8" width="270" height="185" rx="18" fill="url(#soap)" stroke="#a51e2b" stroke-width="3"/>
+ <rect x="30" y="47" width="210" height="70" rx="8" fill="#fff8f4" opacity=".97"/>
+ <text x="135" y="73" text-anchor="middle" font-family="Georgia,serif" font-size="17" font-weight="bold" fill="#7b1738">ZEYNEB FASHION</text>
+ <path d="M67 83 H203" stroke="#c79a45" stroke-width="1.5"/>
+ <text x="135" y="103" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" letter-spacing="1" fill="#7b1738">SAVON TOMATE</text>
+</g>
+<g transform="translate(460 95)">
+ <path d="M54 51 Q34 12 72 0 Q69 28 91 30 Q111 0 130 16 Q106 45 83 55" fill="#477642"/>
+ <ellipse cx="83" cy="80" rx="70" ry="65" fill="url(#tomato)"/>
+ <path d="M83 15 L74 36 L52 24 L63 45 L37 48 L65 56 L83 39 L101 56 L127 48 L103 43 L113 24 L92 36 Z" fill="#3c733d"/>
+ <ellipse cx="61" cy="57" rx="14" ry="23" fill="#fff" opacity=".18" transform="rotate(25 61 57)"/>
+</g>
+<g transform="translate(55 525) rotate(-10)">
+ <path d="M54 51 Q34 12 72 0 Q69 28 91 30 Q111 0 130 16 Q106 45 83 55" fill="#477642"/>
+ <ellipse cx="83" cy="80" rx="70" ry="65" fill="url(#tomato)"/>
+ <path d="M83 15 L74 36 L52 24 L63 45 L37 48 L65 56 L83 39 L101 56 L127 48 L103 43 L113 24 L92 36 Z" fill="#3c733d"/>
+ <ellipse cx="61" cy="57" rx="14" ry="23" fill="#fff" opacity=".18" transform="rotate(25 61 57)"/>
+</g>
+<text x="350" y="720" text-anchor="middle" font-family="Georgia,serif" font-size="28" fill="#7b1738">Savon de visage Tomate</text>
+<text x="350" y="754" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" letter-spacing="3" fill="#9c343e">ZEYNEB FASHION</text>
+</svg>
