@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 900" role="img" aria-labelledby="title desc">
+<title id="title">Étiquettes avant et arrière — Gel de douche noir éclaircissant Zeyneb Fashion</title>
+<desc id="desc">Deux étiquettes coordonnées noir, or et argent, sans photographie. Vérifier la formule réelle et les mentions réglementaires avant impression.</desc>
+<defs>
+ <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0a8"/><stop offset=".3" stop-color="#bc8829"/><stop offset=".52" stop-color="#ffe7a0"/><stop offset=".78" stop-color="#9c7024"/><stop offset="1" stop-color="#f8d77c"/></linearGradient>
+ <linearGradient id="silver" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#fff"/><stop offset=".5" stop-color="#a9adb2"/><stop offset="1" stop-color="#f8f8f8"/></linearGradient>
+ <linearGradient id="black" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#191919"/><stop offset="1" stop-color="#030303"/></linearGradient>
+ </defs>
+<rect width="1400" height="900" fill="#f2f0eb"/>
+<g transform="translate(45 55)">
+<rect width="620" height="790" rx="22" fill="url(#black)" stroke="url(#gold)" stroke-width="8"/>
+<rect x="17" y="17" width="586" height="756" rx="15" fill="none" stroke="url(#silver)" stroke-width="2"/>
+<path d="M20 230 Q310 275 600 230 M20 690 Q310 640 600 690" fill="none" stroke="url(#gold)" stroke-width="5"/>
+<circle cx="310" cy="108" r="55" fill="none" stroke="url(#gold)" stroke-width="3"/>
+<path d="M270 116 Q294 88 310 63 Q326 88 350 116 Q326 137 310 126 Q294 137 270 116Z" fill="url(#gold)"/>
+<path d="M278 72 L286 53 L300 65 L310 47 L320 65 L334 53 L342 72" fill="none" stroke="url(#gold)" stroke-width="5" stroke-linejoin="round"/>
+<text x="310" y="190" text-anchor="middle" font-family="Georgia,serif" font-size="52" fill="url(#gold)">Zeyneb</text>
+<text x="310" y="220" text-anchor="middle" font-family="Arial,sans-serif" font-size="23" letter-spacing="8" fill="url(#silver)">FASHION</text>
+<text x="310" y="310" text-anchor="middle" font-family="Georgia,serif" font-size="42" font-weight="bold" fill="url(#silver)">GEL DE DOUCHE</text>
+<text x="310" y="366" text-anchor="middle" font-family="Georgia,serif" font-size="55" font-weight="bold" fill="url(#gold)">NOIR</text>
+<rect x="90" y="390" width="440" height="54" rx="27" fill="url(#gold)"/>
+<text x="310" y="425" text-anchor="middle" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#111">ÉCLAIRCISSANT</text>
+<text x="310" y="490" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" fill="url(#silver)">Nettoie • Hydrate • Parfume</text>
+<g fill="none" stroke="url(#gold)" stroke-width="3"><circle cx="150" cy="555" r="24"/><circle cx="310" cy="555" r="24"/><circle cx="470" cy="555" r="24"/></g>
+<g fill="url(#gold)" font-family="Arial,sans-serif" font-size="14" text-anchor="middle"><text x="150" y="560">1</text><text x="310" y="560">2</text><text x="470" y="560">3</text></g>
+<g fill="url(#silver)" font-family="Arial,sans-serif" font-size="19" text-anchor="middle"><text x="150" y="600">Nettoie</text><text x="310" y="600">Hydrate</text><text x="470" y="600">Parfume</text></g>
+<text x="310" y="735" text-anchor="middle" font-family="Georgia,serif" font-size="34" fill="url(#gold)">500 ml</text>
+</g>
+<g transform="translate(735 55)">
+<rect width="620" height="790" rx="22" fill="url(#black)" stroke="url(#gold)" stroke-width="8"/>
+<rect x="17" y="17" width="586" height="756" rx="15" fill="none" stroke="url(#silver)" stroke-width="2"/>
+<text x="310" y="88" text-anchor="middle" font-family="Georgia,serif" font-size="42" fill="url(#gold)">Zeyneb Fashion</text>
+<path d="M55 112 H565" stroke="url(#silver)" stroke-width="2"/>
+<text x="45" y="160" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="url(#gold)">DESCRIPTION</text>
+<text x="45" y="198" font-family="Arial,sans-serif" font-size="20" fill="url(#silver)">Gel de douche noir éclaircissant.</text>
+<text x="45" y="229" font-family="Arial,sans-serif" font-size="20" fill="url(#silver)">Nettoie la peau et laisse une sensation</text>
+<text x="45" y="260" font-family="Arial,sans-serif" font-size="20" fill="url(#silver)">de douceur et de fraîcheur.</text>
+<text x="45" y="325" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="url(#gold)">MODE D’UTILISATION</text>
+<text x="45" y="363" font-family="Arial,sans-serif" font-size="20" fill="url(#silver)">Appliquer sur la peau humide, masser</text>
+<text x="45" y="394" font-family="Arial,sans-serif" font-size="20" fill="url(#silver)">doucement puis rincer abondamment.</text>
+<text x="45" y="459" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="url(#gold)">INGRÉDIENTS</text>
+<text x="45" y="497" font-family="Arial,sans-serif" font-size="20" fill="url(#silver)">À compléter selon la formule réelle.</text>
+<text x="45" y="562" font-family="Arial,sans-serif" font-size="23" font-weight="bold" fill="url(#gold)">PRÉCAUTIONS</text>
+<text x="45" y="600" font-family="Arial,sans-serif" font-size="20" fill="url(#silver)">Usage externe uniquement. Éviter le</text>
+<text x="45" y="631" font-family="Arial,sans-serif" font-size="20" fill="url(#silver)">contact avec les yeux. Tenir hors de</text>
+<text x="45" y="662" font-family="Arial,sans-serif" font-size="20" fill="url(#silver)">portée des enfants.</text>
+<path d="M45 700 H575" stroke="url(#gold)" stroke-width="2"/>
+<text x="45" y="739" font-family="Arial,sans-serif" font-size="19" fill="url(#gold)">Fabriqué pour Zeyneb Fashion</text>
+<text x="575" y="739" text-anchor="end" font-family="Arial,sans-serif" font-size="23" fill="url(#silver)">500 ml</text>
+</g>
+</svg>
